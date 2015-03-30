@@ -1,0 +1,11 @@
+pwd 
+ls
+cd
+mkdir
+touch
+rm
+rm -rf
+open
+subl .
+cp
+mv
