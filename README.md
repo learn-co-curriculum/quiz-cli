@@ -12,7 +12,7 @@ resources: 0
 ?: 1. Select the command that will print the current working directory path
 
 ( ) path
-( ) pwd
+(X) pwd
 ( ) ls
 ( ) cd
 
@@ -20,7 +20,7 @@ resources: 0
 
 ( ) ds
 ( ) pwd
-( ) ls
+(X) ls
 ( ) cd
 
 ?: 3. Select the command that will change from one directory to another
@@ -28,18 +28,18 @@ resources: 0
 ( ) cdir
 ( ) pwd
 ( ) ls
-( ) cd
+(X) cd
 
 ?: 4. Select the command that will create a new directory
 
 ( ) pwd
-( ) mkdir
+(X) mkdir
 ( ) build dir
 ( ) cd
 
 ?: 5. Select the command that will create a new file
 
-( ) touch
+(X) touch
 ( ) mkdir
 ( ) build file
 ( ) ls
@@ -47,7 +47,7 @@ resources: 0
 ?: 6. Select the command that will remove a file
 
 ( ) rem
-( ) rm
+(X) rm
 ( ) del
 ( ) touch
 
@@ -55,12 +55,12 @@ resources: 0
 
 ( ) mkdir
 ( ) kill
-( ) rm -rf
+(X) rm -rf
 ( ) touch -rf
 
 ?: 8. Select the command that will open a file in the default application for that file type
 
-( ) open
+(X) open
 ( ) touch
 ( ) launch
 ( ) o ..
@@ -69,13 +69,13 @@ resources: 0
 
 ( ) open
 ( ) subl ls
-( ) subl .
+(X) subl .
 ( ) launch sbl
 
 ?: 10. Select the command that will copy files or folders from one location to another
 
 ( ) copy
-( ) cp
+(X) cp
 ( ) mv
 ( ) cpdir
 
@@ -83,7 +83,7 @@ resources: 0
 
 ( ) move
 ( ) cp
-( ) mv
+(X) mv
 ( ) mvdir
 
 ???
