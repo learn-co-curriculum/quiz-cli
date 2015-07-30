@@ -1,9 +1,4 @@
----
-language: bash
-tags: cli, command line interface
-type: quiz
-resources: 0
----
+
 
 ???
 
