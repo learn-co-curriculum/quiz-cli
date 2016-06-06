@@ -53,19 +53,13 @@
 (X) rm -rf
 ( ) touch -rf
 
-?: Select the command that will open a file in the default application for that file type
+?: Select the command that will open a file in the default application for that file type (but note that with the IDE, you will use the command "atom" instead)
 
-(X) open
-( ) touch
-( ) launch
+(X) open 
+( ) touch 
+( ) launch 
 ( ) o ..
 
-?: Select the command that will open an entire directory in Sublime Text
-
-( ) open
-( ) subl ls
-(X) subl .
-( ) launch sbl
 
 ?: Select the command that will copy files or folders from one location to another
 
